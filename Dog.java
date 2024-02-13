@@ -1,3 +1,5 @@
+package petDatabase;
+
 
 /**
  * Class: Dog
