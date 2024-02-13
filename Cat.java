@@ -14,7 +14,7 @@
  *          Purpose: – This class can be used to create or edit a Cat object.
  */
 
-public class Cat extends Pet {
+public class Cat extends Pet { 
 
     // attributes
     private int age;
