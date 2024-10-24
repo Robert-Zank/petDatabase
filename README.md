@@ -39,7 +39,7 @@ To install and run this project locally, follow these steps:
 3. Compile the Java files:
 
     ```bash
-    javac *.java
+    javac PetFrontEnd.java
     ```
 
 4. Run the project:
